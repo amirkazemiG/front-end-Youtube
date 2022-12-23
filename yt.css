@@ -1,0 +1,106 @@
+.video1{
+display: inline-block;
+}
+.thumbnail1{
+    height: 170px; display: inline-block; margin-top: 75px;margin-left: 80px; margin-right: -50px;
+    
+}
+.th1-p{
+   display: block ; width: 280px; margin-top: -7px; font-weight: 600; font-size: 14px; font-family:
+    system-ui, -apple-system, BlinkMacSystemFont,
+     'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; margin-left: 165px;
+      ; position: absolute;
+}
+
+.channel-picture{
+     border-radius: 36px; display: inline-block; width: 36px;vertical-align: middle;
+}
+.video-info{
+ width: 200px; vertical-align: top; display: inline-block; margin-top: -80px;
+}
+.thumbnail2{
+    height: 170px; display: inline-block; vertical-align: top;  position: absolute; top: 8px; margin-top: 75px;
+     margin-left: 63px;
+}
+
+
+.video-info2{
+    display: block;  position: absolute;
+}
+.video2{  width: 
+    36px;  border-radius: 36px;
+}
+.home{
+    height: 24px; position: absolute; margin-top: 70px;margin-left: 10px;
+}
+.whole{
+    height: 24px; display: inline-block; position: fixed;
+}
+.channel-picture1{
+    display: inline-block; width: 36px;border-radius: 36px; margin-left: 90px; margin-top: 5px;
+}
+.channel-picture2{
+    width: 36px;border-radius: 36px; margin-top: 92px;overflow: hidden; top: 170px; position: absolute; margin-left: 60px;
+}
+
+.explore{
+    height: 24px; position: absolute; margin-top: 140px; margin-left: 12px;
+}
+.subscription{
+    height: 24px; position: absolute; margin-top: 210px; margin-left: 12px;
+}
+.original{
+    height: 24px;position: absolute; margin-top: 280px;margin-left: 10px;
+}
+.yt-music{
+    height: 24px; position: absolute; margin-top: 350px; margin-left: 12px;
+}
+.library{
+    position: absolute; height: 24px; margin-top: 425px;margin-left: 10px;
+}
+.menu{
+    position: absolute; height: 24px; margin-left: 15px; margin-top: 10px;
+}
+.yt{
+    position: absolute; height: 20px; margin-left: 60px; margin-top: 10px;
+}
+.input{
+    position: absolute; height: 40px; margin-left: 440px;  width: 370px;
+}
+.upload{
+    position: absolute; height: 24px; margin-left: 1140px; margin-top: 7px;
+}
+.yt-app{
+    position: absolute; height: 24px; margin-left:1190px ; margin-top: 7px;
+}
+.notif{
+position: absolute; height: 24px; margin-top: 7px; margin-left: 1240px;
+} 
+.pfp{
+    position: absolute; height: 34px; border-radius: 12px; margin-left: 1290px;
+}
+
+.thumbnail3{
+    height: 172px; position: absolute; margin-left: 720px; margin-top: -220px;
+}
+.channel-picture3{ 
+border-radius: 36px; width: 36px; position: absolute;margin-left: 725px; margin-top: -38px;
+}
+.thumbnail4{
+position: absolute; height: 175px; margin-left: 1040px; margin-top: -220px;
+}
+.profile-picture4{
+    border-radius: 36px; width: 36px;; margin-left: 1050px; position: absolute; margin-top: -40px; 
+}
+.thumbnail5{
+position: absolute; height: 170px; margin-left: 83px; margin-top: 76px;
+}
+.pfp5{
+border-radius: 36px; width: 36px; margin-top: 250px; margin-left: 85px;
+}
+.thumbnail6{
+position: absolute; height: 173px ; margin-left: 405px; margin-top: -215px;
+}
+.pfp6{
+position: absolute; border-radius: 36px; width: 36px ; margin-left: 410px; margin-top: -35px;
+}
